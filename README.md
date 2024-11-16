@@ -1,0 +1,2 @@
+# Customer-Purchase-Prediction-Using-Consumer-Behavior-Dataset-with-an-ANN-Model-Deep-Learning-
+This project focuses on predicting future purchases based on customer behavior using an Artificial Neural Network (ANN) model. By leveraging historical transaction data, the model identifies patterns to predict whether a customer is likely to make a purchase, enabling businesses to optimize marketing strategies and improve customer engagement.
